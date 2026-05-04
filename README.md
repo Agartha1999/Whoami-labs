@@ -1,2 +1,2 @@
 # Whoami-labs
-Aqui resolvemos maquinas
+Aqui resolvemos maquinas para aprender hacking etico
